@@ -1,6 +1,6 @@
 {
   "name": "jazbewor-mdl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Packages with models and utilities for use in the Jazbewor project.",
   "main": "index.js",
   "types": "index.d.ts",
