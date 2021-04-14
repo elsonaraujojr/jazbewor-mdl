@@ -1,0 +1,31 @@
+{
+  "name": "jazbewor-mdl",
+  "version": "1.0.0",
+  "description": "Packages with models and utilities for use in the Jazbewor project.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zugzwangbw/jazbewor-mdl.git"
+  },
+  "keywords": [
+    "jazbewor",
+    "jazbewor-mdl",
+    "models jazbewor"
+  ],
+  "author": "zugzwangbw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zugzwangbw/jazbewor-mdl/issues"
+  },
+  "homepage": "https://github.com/zugzwangbw/jazbewor-mdl#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
