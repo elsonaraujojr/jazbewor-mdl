@@ -4,7 +4,6 @@ export default class CompanyDTOResponseClient {
   id?: number;
   cnpj?: number;
   uf?: string;
-
   nome?: string;
   email?: string;
   // qsa?: string;
@@ -26,7 +25,6 @@ export default class CompanyDTOResponseClient {
     this.id = entity.id;
     this.cnpj = entity.cnpj;
     this.uf = entity.uf;
-
     this.nome = entity.nome;
     this.email = entity.email;
     // this.qsa = entity.qsa;
@@ -34,7 +32,7 @@ export default class CompanyDTOResponseClient {
     this.bairro = entity.bairro;
     this.logradouro = entity.logradouro;
     this.numero = entity.numero;
-    this.cep = entity.ceo;
+    this.cep = entity.cep;
     this.municipio = entity.municipio;
     this.porte = entity.porte;
     this.abertura = entity.abertura;
